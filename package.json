@@ -1,0 +1,15 @@
+{
+  "name": "tiger",
+  "version": "1.0.0",
+  "description": "its an amazing package",
+  "license": "ISC",
+  "author": "tiger",
+  "type": "yes", 
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
